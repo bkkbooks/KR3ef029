@@ -1,0 +1,501 @@
+canonical_identifier: bkk:krp/KR3ef029/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ef029/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 傷寒之研究
+  identifiers:
+    krp: KR3ef029
+  tags:
+    kr-categories: KR3ef
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ef029.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 1, filename: KR3ef029_001-jc.yaml, hash: 'sha256:000808eea4e0b0c74be0ca0ac3c7c8c3ef3f315dd186708fd91ac5628408813c'}
+  - {seq: 2, filename: KR3ef029_002-jc.yaml, hash: 'sha256:f723020db35de7b6cf7a240fea592c0a1d59359e2c6178a8e167febf00cf9307'}
+  - {seq: 3, filename: KR3ef029_003-jc.yaml, hash: 'sha256:afcd83e7831b350a4acc0065247fb72adde6554721bd65f063235ed5b9beee0d'}
+  - {seq: 4, filename: KR3ef029_004-jc.yaml, hash: 'sha256:b814fb4a2a3ae1755d059b099e0a2b9dbd612c071be37b116ef39a6f8956c48b'}
+  - {seq: 5, filename: KR3ef029_005-jc.yaml, hash: 'sha256:aa6677479dffb8765d84d3a5dd0db332effeb7c62fcab1fa54023e42ddf217f3'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3ef029_001-jc.markers.yaml, hash: 'sha256:73094de122581c591a40028fd62913c73b0fc32f8f8782ee6028d4f76a821ee7'}
+  - {seq: 2, role: markers, filename: assets/KR3ef029_002-jc.markers.yaml, hash: 'sha256:0e66735df4ad43f93cd2347d9ac56480a4ca4b4d9777bd151f7a9f69082dc08a'}
+  - {seq: 3, role: markers, filename: assets/KR3ef029_003-jc.markers.yaml, hash: 'sha256:98543073e21ce3ad0599b5306a6d12e0c6c90e8a17425cb974db2b7675dc0011'}
+  - {seq: 4, role: markers, filename: assets/KR3ef029_004-jc.markers.yaml, hash: 'sha256:8caad3ba2e6578216f38cb63acf32774e778f38cb5ead1f65769feac8e497111'}
+  - {seq: 5, role: markers, filename: assets/KR3ef029_005-jc.markers.yaml, hash: 'sha256:92464e32b17dc0e4aaafba55fc0f90b1c598d05c361cc2c5a9ddfbc604c2575e'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3ef029_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 5864
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ef029_jc_001-d2d2
+    span:
+    - body
+    - 2
+    - 2184
+  label: 題名辨
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef029_jc_001-d2d3
+    span:
+    - body
+    - 2184
+    - 2529
+  label: 自序辨
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef029_jc_001-d2d4
+    span:
+    - body
+    - 2529
+    - 4144
+  label: 脈法及平脈法辨
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef029_jc_001-d2d5
+    span:
+    - body
+    - 4144
+    - 4902
+  label: 傷寒例辨
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef029_jc_001-d2d6
+    span:
+    - body
+    - 4902
+    - 5540
+  label: 痙濕暍辨
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef029_jc_001-d2d7
+    span:
+    - body
+    - 5540
+    - 5864
+  label: 汗吐下辨
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef029_jc_002-d3.h1s1
+    span:
+    - body
+    - 0
+    - 15626
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ef029_jc_002-d3d2
+    span:
+    - body
+    - 2
+    - 687
+  label: 寒五名
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef029_jc_002-d3d3
+    span:
+    - body
+    - 687
+    - 2161
+  label: 三陽三陰
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef029_jc_002-d3d4
+    span:
+    - body
+    - 2161
+    - 2690
+  label: 傷寒中風
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef029_jc_002-d3d5
+    span:
+    - body
+    - 2690
+    - 4759
+  label: 合病並病
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef029_jc_002-d3d6
+    span:
+    - body
+    - 4759
+    - 7031
+  label: 冒首
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef029_jc_002-d3d7
+    span:
+    - body
+    - 7031
+    - 7306
+  label: 正屬
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef029_jc_002-d3d8
+    span:
+    - body
+    - 7306
+    - 8531
+  label: 脈候
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef029_jc_002-d3d9
+    span:
+    - body
+    - 8531
+    - 9821
+  label: 熱五道十二名
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef029_jc_002-d3d10
+    span:
+    - body
+    - 9821
+    - 11642
+  label: 惡寒三道
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef029_jc_002-d3d11
+    span:
+    - body
+    - 11642
+    - 12391
+  label: 頭痛頭眩各二道
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef029_jc_002-d3d12
+    span:
+    - body
+    - 12391
+    - 14560
+  label: 嘔吐各二道附噦
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef029_jc_002-d3d13
+    span:
+    - body
+    - 14560
+    - 15626
+  label: 咳喘各二道
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef029_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 13007
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ef029_jc_003-d4d2
+    span:
+    - body
+    - 2
+    - 1124
+  label: 疼痛二道
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef029_jc_003-d4d3
+    span:
+    - body
+    - 1124
+    - 1623
+  label: 煩躁四道
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef029_jc_003-d4d4
+    span:
+    - body
+    - 1623
+    - 4294
+  label: 汗二道附發汗之辨
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef029_jc_003-d4d5
+    span:
+    - body
+    - 4294
+    - 6075
+  label: 消渴四道附承氣白虎之辨
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef029_jc_003-d4d6
+    span:
+    - body
+    - 6075
+    - 7350
+  label: 腹滿二道
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef029_jc_003-d4d7
+    span:
+    - body
+    - 7350
+    - 7901
+  label: 腹痛二道
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef029_jc_003-d4d8
+    span:
+    - body
+    - 7901
+    - 8641
+  label: 燥屎宿食八道
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef029_jc_003-d4d9
+    span:
+    - body
+    - 8641
+    - 9174
+  label: 瘀血二道
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef029_jc_003-d4d10
+    span:
+    - body
+    - 9174
+    - 10812
+  label: 下利六道
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef029_jc_003-d4d11
+    span:
+    - body
+    - 10812
+    - 13007
+  label: 厥二道
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef029_jc_004-d5.h1s1
+    span:
+    - body
+    - 0
+    - 18205
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ef029_jc_004-d5d2
+    span:
+    - body
+    - 2
+    - 1269
+  label: 日數
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef029_jc_004-d5d3
+    span:
+    - body
+    - 1269
+    - 1937
+  label: 挈因命證
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef029_jc_004-d5d4
+    span:
+    - body
+    - 1937
+    - 2891
+  label: 方證互略
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef029_jc_004-d5d5
+    span:
+    - body
+    - 2891
+    - 5614
+  label: 方從表裡
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef029_jc_004-d5d6
+    span:
+    - body
+    - 5614
+    - 6742
+  label: 數量
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef029_jc_004-d5d7
+    span:
+    - body
+    - 6742
+    - 13984
+  label: 加減法
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef029_jc_004-d5d8
+    span:
+    - body
+    - 13984
+    - 18205
+  label: 服法
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ef029_jc_005-d6.h1s1
+    span:
+    - body
+    - 0
+    - 9387
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3ef029_jc_005-d6d2
+    span:
+    - body
+    - 2
+    - 1603
+  label: 藏府三焦
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ef029_jc_005-d6d3
+    span:
+    - body
+    - 1603
+    - 2419
+  label: 榮衛
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ef029_jc_005-d6d4
+    span:
+    - body
+    - 2419
+    - 3508
+  label: 虛實
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ef029_jc_005-d6d5
+    span:
+    - body
+    - 3508
+    - 4866
+  label: 死生
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ef029_jc_005-d6d6
+    span:
+    - body
+    - 4866
+    - 5399
+  label: 三權
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ef029_jc_005-d6d7
+    span:
+    - body
+    - 5399
+    - 6163
+  label: 仁術
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ef029_jc_005-d6d8
+    span:
+    - body
+    - 6163
+    - 9387
+  label: 古今方
+  type: section
+  level: 2
+hash: sha256:ddd83af753ba714e9cc3a4d71e510e93d35623562d0af2fe67af245eea5a348a
